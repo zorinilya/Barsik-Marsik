@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! I'm [@Barsik-Marsik](https://github.com/Barsik-Marsik) (Ilya Zorin).
+
+I studied automation, mechatronics and robotics at [@NNSTU](https://en.nntu.ru/) for 6 years. I'm currently studying software development at [@Ya.Practicum](https://practicum.yandex.com).
+
+I love learning new things and technologies. 
+
+**I believe that space flights will become a reality!** :rocket:
 
 <!--
 **Barsik-Marsik/Barsik-Marsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
